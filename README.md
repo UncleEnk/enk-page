@@ -1,3 +1,4 @@
+# my ver of excalith's start page, get outta here
 <div align="center">
 	<h1 align="center">Excalith Start Page</h1>
 	<img src=".github/startpage.gif" />
