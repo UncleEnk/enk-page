@@ -4,7 +4,7 @@ const defaultConfig = {
 		fixedHeight: true,
 		backgroundColor: "#121317",
 		windowColor: "#1e212b",
-		glowColor: "#"
+		glowColor: "#bfbfc9"
 	},
 	prompt: {
 		ctrlC: true,
@@ -25,7 +25,7 @@ const defaultConfig = {
 		red: "#ec6183",
 		green: "#2ed8a2",
 		yellow: "#e8b195",
-		blue: "#2bc3de",
+		blue: "#0090ed",
 		cyan: "#62e0e2",
 		magenta: "#e069aa",
 		purple: "#d1aff8",
